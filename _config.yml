@@ -10,11 +10,11 @@ var:
   rss_path: /atom.xml
 
 production_url : http://gkthiruvathukal.github.com # or your custom domain name
-title : Jekyll Boostrap
+title : George K. Thiruvathukal
 
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : George K. Thiruvathukal
+  email : gkt@cs.luc.edu
   github : gkthiruvathukal
   twitter : @gkthiruvathukal
 
