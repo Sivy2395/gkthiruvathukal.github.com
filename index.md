@@ -3,8 +3,10 @@ layout: page
 title: George K. Thiruvathukal
 ---
 
-My actual web page still lives at [www.thiruvathukal.com](http://www.thiruvathukal.com). I am exploring alternatives to hosted CMS/Blogging solutions that
-allow me to author pages in plaintext, backed by a DVCS.
+Welcome to my new web site, powered by [Jekyll](http://jekyllrb.com).
+
+I am still migrating content from my previous [Google Site](http://home.thiruvathukal.com) and will continue to keep it around in the interim, especially for 
+those who have links to it.
 
 ## Posts
 

@@ -4,7 +4,7 @@ title: Books
 group: navigation
 ---
 
-[Codename: Revolution](http://stevenejones.org/Site/Codename_Revolution.html)  
+[Codename: Revolution](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=12805)  
  Steven E. Jones and George K. Thiruvathukal  
  Under contract and review: MIT Press  
  Expected publication date: 2011  
