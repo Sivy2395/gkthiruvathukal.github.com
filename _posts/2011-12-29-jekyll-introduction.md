@@ -2,6 +2,7 @@
 layout: post
 category : lessons
 tags : [intro, beginner, jekyll, tutorial]
+excerpt: The Jekyll tutorial provided with Jekyll-Bootstrap.
 ---
 
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
