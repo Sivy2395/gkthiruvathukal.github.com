@@ -6,7 +6,7 @@ group: navigation
 
 ## Winter/Spring 2012
 
-- [Introduction to Computer Science - COMP 170](http://introcs.courses.thiruvathukal.com)
+- Introduction to Computer Science/COMP 170: [Notes](http://introcs.courses.thiruvathukal.com) - [Syllabus](170/syllabus.html) - [Schedule](170/schedule.html)
 
 - [Markup Languages - COMP 336-436](http://markup.etl.luc.edu)
 

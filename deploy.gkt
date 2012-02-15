@@ -1,0 +1,1 @@
+rsync -avz $(pwd)/_site/ thiruvathukal.com:/home/gkt/public_html/
