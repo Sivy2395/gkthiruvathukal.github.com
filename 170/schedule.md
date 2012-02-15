@@ -46,22 +46,26 @@ title: COMP 170 Schedule
 
 -   [Lecture Notes: Decisions](http://introcs.courses.thiruvathukal.com/html/decisions.html)
 
--   Homework assignment is due on Bitbucket.org. Dr. Läufer and the TAs will
-    help you to submit your work.
+-   [Homework: Grade Calcluation](http://introcs.courses.thiruvathukal.com/html/homework-gradecalculation.html) is due (use bitbucket.org). Dr. Läufer and the TAs will help you to submit your work.
 
 2/9
 
--   Loops
+-   [Lecture Notes: While Loops](http://introcs.courses.thiruvathukal.com/html/while.html)
 
 2/14
 
--   Lab involving loops and decision constructs.
+-   [Lab: MonoDevelop](http://introcs.courses.thiruvathukal.com/html/lab-monodevelop.html)
 
 2/16
 
--   Continuation of labs.
+-   For Loops
+-   Foreach Loops
+
+2/21
+
+-   Lab: Submitting homework from MonoDevelop
 
 2/23
 
--   Quiz \#1, 10:00-11:15
+-   Quiz 1 (10:00 - 11:15)
 
