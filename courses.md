@@ -4,19 +4,20 @@ title: Courses
 group: navigation
 ---
 
-## Winter/Spring 2012
+## COMP 170, Introduction to Computer Science
 
-- Introduction to Computer Science/COMP 170: [Notes](http://introcs.courses.thiruvathukal.com) - [Syllabus](170/syllabus.html) - [Schedule](170/schedule.html)
+- Lecture Notes in [HTML](http://introcs.courses.thiruvathukal.com), [PDF](http://introcs.courses.thiruvathukal.com/latex/ProgrammingInCSharp.pdf), and [ePub](http://introcs.courses.thiruvathukal.com/epub/IntroductoryProgramminginC.epub)
 
-- [Markup Languages - COMP 336-436](http://markup.etl.luc.edu)
+- Syllabus in [HTML](170/syllabus.html)
 
-## Fall 2011
+- Schedule in [HTML](170/schedule.html)
+
+## COMP 336-436, Markup Languages
+
+- [Markup Languages - COMP 336-436](http://markuplanguages.courses.thiruvathukal.com)
+
+## COMP 374, Operating Systems Design and Implementation (Fall 2011)
 
 - [Operating Systems - COMP 374-410](http://osdi.etl.luc.edu)
 
 - [Operating Systems - COMP 374-410 - Future/Integration Build](http://osdi.courses.thiruvathukal.com)
-
-## Others?
-
-Please contact me if you are seeking materials from a previous course.
-
