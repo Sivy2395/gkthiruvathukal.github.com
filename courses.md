@@ -12,6 +12,8 @@ group: navigation
 
 - Schedule in [HTML](170/schedule.html)
 
+- Quiz 1 Study Guide [PDF](170/gkt-170-quiz1guide.pdf)
+
 ## COMP 336-436, Markup Languages
 
 - [Markup Languages - COMP 336-436](http://markuplanguages.courses.thiruvathukal.com)
