@@ -12,6 +12,7 @@
     <![endif]-->
 
     <!-- Le styles -->
+    <link href="{{ theme_asset_path }}/css/eyad.css" rel="stylesheet">
     <link href="{{ theme_asset_path }}/css/1.4.0/bootstrap.css" rel="stylesheet">
     <link href="{{ theme_asset_path }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
@@ -39,20 +40,23 @@
       </div>
     </div>
 
-    <div class="container">
-
-      <div class="content">
-        {{ content }}
-      </div>
-
-      <footer>
-        <p>&copy; {{ site.author.name }} 2012 
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-        </p>
-      </footer>
-
-    </div> <!-- /container -->
+	<div class="eyad_container">
+		<div class="eyad_header"></div>
+		<div class="eyad_title">
+			<div class="eyad_titleWrapper">
+			{{ page.title }}
+			</div>
+		</div>
+		<div class="eyad_body">
+			<div class="eyad_bodyWrapper">
+				{{ content }}
+			</div>
+		</div>
+		<div class="eyad_footer">
+			<div class="eyad_copyrightsWrapper">With help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+	          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a></div>
+		</div>
+	</div>
 
   </body>
 </html>
