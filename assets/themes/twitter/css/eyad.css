@@ -49,13 +49,12 @@ a img
 .eyad_header
 {
 	background:url('images/header.png') top center no-repeat;
-	height: 222px;
+	height: 200px;
 	margin-top: 0px;
 }
 .eyad_titleWrapper
 {
-	background:url('images/title.png') top center no-repeat;
-	height: 100px;
+	background:url('images/title.png') top center repeat-y;
 	padding: 0px;
 	margin: 0px;
 }
@@ -63,25 +62,26 @@ a img
 {
 	float: left;
 	background:url('images/ribbon_sd_l.png') top center no-repeat;
-	width: 24px;	
-	height: 109px;		
+	width: 40px;	
+	height: 43px;	
+	margin-left: 2px;	
 }
 .eyad_sideribbonC
 {
 	float: left;
 	background:url('images/ribbon_sd_c.png') top center repeat-x;
-	height: 109px;	
+	height: 43px;	
 }
 .eyad_sideribbonR
 {
 	float: left;
 	background:url('images/ribbon_sd_r.png') top center no-repeat;
-	width: 60px;	
-	height: 109px;		
+	width: 40px;	
+	height: 43px;		
 }
 .eyad_sideribbonCC
 {
-	margin: 45px 0px 0px 0px;
+	margin: 8px 0px 0px 0px;
 	font-size: 18px;
 	font-weight: bold;
 	color: #000;
@@ -98,7 +98,7 @@ a img
 }
 .eyad_bodyWrapper
 {
-	padding: 25px;
+	padding: 0px 25px 0px 25px;
 }
 .eyad_footer
 {
